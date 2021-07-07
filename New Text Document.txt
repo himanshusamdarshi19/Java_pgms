@@ -1,0 +1,16 @@
+class first
+{
+public static void main(String ar[])
+{
+try
+{
+String s="welcome";
+System.out.println(s.charAt(7));
+System.out.print("try");
+}
+catch(Exception e)
+{
+System.out.println(e);
+}
+}
+}
